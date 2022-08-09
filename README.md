@@ -1,15 +1,10 @@
 <p align="center">
-  <img alt="Coding" width="900" height="600" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-</p>
-
-<p align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <img alt="Coding" src="https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif">
   <h1 align="center">Hi 👋, I'm Pema Gyalpo</h1>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pemagyalpo97&label=Profile%20views&color=0e75b6&style=flat" alt="pemagyalpo97" />
 </p>
-
 <h3 align="center">A passionate Software Engineer from Bhutan</h3>
 
 
