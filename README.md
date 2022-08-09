@@ -1,7 +1,12 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pemagyalpo97&label=Profile%20views&color=0e75b6&style=flat" alt="pemagyalpo97" /> </p>
-<h1 align="center">Hi 👋, I'm Pema Gyalpo</h1>
+[![Hello, world](http://i.imgur.com/c7GmAJf.png)](https://github.com/mappum)
+<p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <h1 align="center">Hi 👋, I'm Pema Gyalpo</h1>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pemagyalpo97&label=Profile%20views&color=0e75b6&style=flat" alt="pemagyalpo97" />
+</p>
 <h3 align="center">A passionate Software Engineer from Bhutan</h3>
-<img alt="Coding" width="900" height="600" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pemagyalpo97" alt="pemagyalpo97" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🔭 I’m currently working on [IBLS, PEL](https://ibls.moea.gov.bt/, https://www.bcaa.gov.bt/pel/redirect.html?q=loginRedirect)
