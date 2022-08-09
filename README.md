@@ -6,12 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=pemagyalpo97&label=Profile%20views&color=0e75b6&style=flat" alt="pemagyalpo97" />
 </p>
 <h3 align="center">A passionate Software Engineer from Bhutan</h3>
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pemagyalpo97" alt="pemagyalpo97" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
-
+<hr>
 - 🔭 I’m currently working on [IBLS, PEL](https://ibls.moea.gov.bt/, https://www.bcaa.gov.bt/pel/redirect.html?q=loginRedirect)
 
 - 🌱 I’m currently learning **Full-Stack Dev with MERN, MENN and DevOps**
@@ -19,6 +14,7 @@
 - 👯 I’m looking to collaborate on **Remote Work**
 
 - 📫 How to reach me **pemagyalpo74@gmail.com**
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/pemagyalpo97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pemagyalpo97" height="30" width="40" /></a>
