@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[![Hello, world](http://i.imgur.com/c7GmAJf.png)](https://github.com/mappum)" />
+  <img alt="Coding" width="900" height="600" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 </p>
 
 <p align="center">
