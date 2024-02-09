@@ -9,7 +9,7 @@
 <hr>
 - 🔭 I’m currently working on [IBLS, PEL](https://ibls.moea.gov.bt/, https://www.bcaa.gov.bt/pel/redirect.html?q=loginRedirect)
 
-- 🌱 I’m currently learning **Full-Stack Dev with MERN, MENN and DevOps**
+- 🌱 I want to be a fully on-site/remote **DevSecOps Engineer**
 
 - 👯 I’m looking to collaborate on **Remote Work**
 
