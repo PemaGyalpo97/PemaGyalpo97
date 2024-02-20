@@ -13,6 +13,9 @@
 - 👯 I’m looking to collaborate on **Remote Work**
 
 - 📫 How to reach me **pemagyalpo74@gmail.com**
+
+- My Profile https://pemagyalpo97.github.io/
+**Page Status** : [![pages-build-deployment](https://github.com/PemaGyalpo97/pemagyalpo97.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main&event=deployment_status)](https://github.com/PemaGyalpo97/pemagyalpo97.github.io/actions/workflows/pages/pages-build-deployment)
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
