@@ -7,7 +7,6 @@
 </p>
 <h3 align="center">A passionate Software Engineer from Bhutan</h3>
 <hr>
-- 🔭 I’m currently working on [IBLS, PEL](https://ibls.moea.gov.bt/, https://www.bcaa.gov.bt/pel/redirect.html?q=loginRedirect)
 
 - 🌱 I want to be a fully on-site/remote **DevSecOps Engineer**
 
