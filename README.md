@@ -137,27 +137,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-```javascript
-const pemaGyalpo = {
-    location: "Bhutan 🇧🇹",
-    currentFocus: "Blockchain & AI",
-    learningGoals: ["Cloud Security", "Infrastructure as Code", "CI/CD Pipelines", "DApps"],
-    askMeAbout: ["Web Development", "DevOps", "Cloud Computing"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "TailwindCSS"],
-        backEnd: ["Node.js", "Django", "Spring Boot", "FastAPI"],
-        databases: ["PostgreSQL", "Oracle", "MySQL", "MariaDB"],
-        devOps: ["Docker", "Kubernetes", "Jenkins"],
-        tools: ["Git", "Linux", "GraphQL"]
-    },
-    funFact: "I love building scalable applications and automating workflows!"
-};
-```
-
----
-
 ## 💡 Random Dev Quote
 
 <div align="center">
