@@ -121,7 +121,7 @@
 
 <div align="center">
   
-![Trophy](https://github-profile-trophy.vercel.app/?username=pemagyalpo97&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+![Trophy](https://github-profile-trophy.vercel.app/?username=pemagyalpo97&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
