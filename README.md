@@ -124,13 +124,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pemagyalpo97&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=10&title=MultiLanguage,Commit,Followers,Repositories,Issues,PullRequest" />
 </div>
 
-<br>
-
-<!-- Row 2: 3 trophies centered -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pemagyalpo97&theme=onedark&no-frame=true&no-bg=true&column=3&margin-w=10&title=Stars,Rank,CodeReview" />
-</div>
-
 
 ---
 
