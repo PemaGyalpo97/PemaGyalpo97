@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Coding GIF](https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif)
+![Coding GIF](https://github.com/PemaGyalpo97/PemaGyalpo97/blob/main/git-hub%20animation.gif)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pemagyalpo97&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/pemagyalpo97)
 [![GitHub followers](https://img.shields.io/github/followers/pemagyalpo97?label=Followers&style=flat-square&color=blue&logo=github)](https://github.com/pemagyalpo97?tab=followers)
