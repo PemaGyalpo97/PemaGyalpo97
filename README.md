@@ -18,7 +18,7 @@
 
 🌍 **A passionate Software Engineer from Bhutan**
 
-🎯 **Goal:** Becoming a fully on-site/remote **DevSecOps Engineer**
+🎯 **Goal:** Becoming a fully on-site/remote **Software Engineer**
 
 💼 **Open to:** Remote collaboration opportunities
 
@@ -82,7 +82,6 @@
 ### ☁️ DevOps & Cloud
 <div align="center">
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
@@ -143,14 +142,14 @@
 ```javascript
 const pemaGyalpo = {
     location: "Bhutan 🇧🇹",
-    currentFocus: "DevSecOps Engineering",
-    learningGoals: ["Cloud Security", "Infrastructure as Code", "CI/CD Pipelines"],
+    currentFocus: "Blockchain & AI",
+    learningGoals: ["Cloud Security", "Infrastructure as Code", "CI/CD Pipelines", "DApps"],
     askMeAbout: ["Web Development", "DevOps", "Cloud Computing"],
     technologies: {
         frontEnd: ["React", "Next.js", "TailwindCSS"],
-        backEnd: ["Node.js", "Django", "Spring Boot"],
-        databases: ["PostgreSQL", "MongoDB", "MySQL"],
-        devOps: ["Docker", "Kubernetes", "Jenkins", "AWS"],
+        backEnd: ["Node.js", "Django", "Spring Boot", "FastAPI"],
+        databases: ["PostgreSQL", "Oracle", "MySQL", "MariaDB"],
+        devOps: ["Docker", "Kubernetes", "Jenkins"],
         tools: ["Git", "Linux", "GraphQL"]
     },
     funFact: "I love building scalable applications and automating workflows!"
