@@ -121,7 +121,7 @@
 
 <div align="center">
   
-![Trophy](https://github-profile-trophy.vercel.app/?username=pemagyalpo97&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Trophy](https://github-profile-trophy.vercel.app/?username=pemagyalpo97&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
@@ -172,7 +172,7 @@ const pemaGyalpo = {
   
 ### 🌟 Thanks for visiting! Let's connect and build something amazing together! 🌟
 
-![Snake Animation](https://github.com/pemagyalpo97/pemagyalpo97/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/PemaGyalpo97/PemaGyalpo97/blob/main/github-contribution-grid-snake.svg)
 
 **⭐ From [PemaGyalpo97](https://github.com/pemagyalpo97) with ❤️**
 
