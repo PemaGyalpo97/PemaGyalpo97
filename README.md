@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/PemaGyalpo97/PemaGyalpo97/blob/main/git-hub%20animation.gif?raw=true" width="800" height="250"/>
+<img src="https://github.com/PemaGyalpo97/PemaGyalpo97/blob/main/git-hub%20animation.gif?raw=true" height="250"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=pemagyalpo97&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/pemagyalpo97)
 [![GitHub followers](https://img.shields.io/github/followers/pemagyalpo97?label=Followers&style=flat-square&color=blue&logo=github)](https://github.com/pemagyalpo97?tab=followers)
